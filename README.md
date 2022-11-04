@@ -16,3 +16,4 @@ Sd card
 
 
 자세한 것은 블로그 참조
+https://blog.naver.com/jinjehhwan/222919448936
