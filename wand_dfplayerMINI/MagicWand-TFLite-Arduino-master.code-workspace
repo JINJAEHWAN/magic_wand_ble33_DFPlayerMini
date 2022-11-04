@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "led",
+			"path": "../../arduino_project/led"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"mstd_iterator": "cpp"
+		}
+	}
+}
